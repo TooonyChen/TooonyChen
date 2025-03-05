@@ -1,4 +1,4 @@
-# Hi there, I'm Tony Chen 
+# Hi there, I'm Tony Chen 👋
 
 🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, cloud computing, and open-source projects. Currently interning at a startup, where I manage the entire tech stack and build scalable applications. 
 
