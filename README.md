@@ -4,8 +4,6 @@
 
 🎯 **Actively seeking** opportunities in software engineering, cloud infrastructure, and backend development.
 
----
-
 ## 🔥 About Me
 
 - 🎓 **Education**:  
@@ -14,8 +12,6 @@
 - 🌍 Based in **Auckland, New Zealand**  
 - 💡 Passionate about **cloud computing, serverless architectures, and open-source contributions**  
 - 🏆 Former **E-sports Team Leader** (Counter-Strike) | FACEIT OCE TOP#500 | 4th place in Southern Regional College League of China  
-
----
 
 ## 💻 Tech Stack
 
