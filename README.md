@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Tony Chen 
 
-<!--
-**TooonyChen/TooonyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, cloud computing, and open-source projects. Currently interning at a startup, where I manage the entire tech stack and build scalable applications. 
 
-Here are some ideas to get you started:
+🎯 **Actively seeking** opportunities in software engineering, cloud infrastructure, and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 🎓 **Education**:  
+  - B.Sc. in Computer Science, **University of Auckland** (2024 - Present)  
+  - Formerly studied Software Engineering at **Macau University of Science and Technology** (2022 - 2024 | Trasnferred) 
+- 🌍 Based in **Auckland, New Zealand**  
+- 💡 Passionate about **cloud computing, serverless architectures, and open-source contributions**  
+- 🏆 Former **E-sports Team Leader** (Counter-Strike) | FACEIT OCE TOP#500 | 4th place in Southern Regional College League of China  
+
+---
+
+## 💻 Tech Stack
+
+### 🛠️ Languages & Frameworks
+- **Languages**: Python, Java, C/C++, JavaScript, TypeScript, C#  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Spring, Node.js, FastAPI  
+- **Cloud & Serverless**: Cloudflare Workers, AWS Lambda, Firebase  
+- **Databases**: PostgreSQL, MySQL, SQLite, Cloudflare D1  
+- **Other Tools**: Docker, Git, SSH, VS Code, PyTorch  
