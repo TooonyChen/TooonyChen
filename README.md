@@ -1,24 +1,34 @@
 # Hi there, I'm Tony Chen 👋
 
-🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, cloud computing, and open-source projects. Currently interning at a startup, where I manage the entire tech stack and build scalable applications. 
+🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, serverless cloud architecture, and open-source projects. Previously interned at a startup, where I independently managed the entire tech stack and built scalable web applications.
 
-🎯 **Actively seeking** opportunities in software engineering, cloud infrastructure, and backend development.
+🎯 **Actively seeking** roles in software engineering, backend development, and cloud infrastructure.
+
+---
 
 ## 🔥 About Me
 
-- 🎓 **Education**:  
+- 🎓 **Education**  
   - B.Sc. in Computer Science, **University of Auckland** (2024 - Present)  
-  - Formerly studied Software Engineering at **Macau University of Science and Technology** (2022 - 2024 | Trasnferred) 
+  - Formerly studied Software Engineering at **Macau University of Science and Technology** (2022 - 2024 | Transferred)  
 - 🌍 Based in **Auckland, New Zealand**  
-- 💡 Passionate about **cloud computing, serverless architectures, and open-source contributions**  
-- 🏆 Former **E-sports Team Leader** (Counter-Strike) | FACEIT OCE TOP#500 | 4th place in Southern Regional College League of China  
+- 💡 Passionate about **cloud-native development**, **serverless computing**, and **AI integration into web apps**  
+- 🏆 Former **E-sports Team Leader** (Counter-Strike 2) | FACEIT OCE TOP #500 | 4th place in Southern Regional College League of China  
+
+---
 
 ## 💻 Tech Stack
 
-### 🛠️ Languages & Frameworks
-- **Languages**: Python, Java, C/C++, JavaScript, TypeScript, C#  
-- **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: Spring, Node.js, FastAPI  
-- **Cloud & Serverless**: Cloudflare Workers, AWS Lambda, Firebase  
-- **Databases**: PostgreSQL, MySQL, SQLite, Cloudflare D1  
-- **Other Tools**: Docker, Git, SSH, VS Code, PyTorch  
+- **Languages**: Python, Java, TypeScript, JavaScript, C/C++, HTML/CSS
+- **Frontend**: React.js, Next.js, Tailwind CSS, shadcn/ui
+- **Backend**: Spring Boot, Express.js (Node.js), REST APIs, Serverless Architectures
+- **Databases**: PostgreSQL, MySQL, SQLite, Cloudflare KV, Firebase Realtime DB
+- **Cloud & Platforms**: Cloudflare Workers, Google Firebase, GCP, AWS, Azure
+- **AI & ML**: PyTorch, Prompt Engineering, Cloud-based AI APIs (e.g., OpenAI)
+- **DevOps & Tools**: Docker, Git, SSH, CI/CD, Visual Studio Code
+
+---
+
+📫 **Let's connect**  
+Open to freelance, internships, and full-time opportunities.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tonychenyz/) or check out my projects on [GitHub](https://github.com/TooonyChen).
