@@ -1,6 +1,6 @@
 # Hi there, I'm Tony Chen 👋
 
-🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, serverless cloud architecture, and open-source projects. Previously interned at a startup, where I independently managed the entire tech stack and built scalable web applications.
+🚀 **Final-year Computer Science student** at the University of Auckland with a strong passion for full-stack development, serverless architecture, and applied AI. Currently interning at [Aipotheosis Labs](https://aci.dev/), an open-source AI startup, where I integrate advanced AI tools into developer infrastructure used globally.
 
 🎯 **Actively seeking** roles in software engineering, backend development, and cloud infrastructure.
 
