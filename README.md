@@ -31,5 +31,4 @@ Currently interning at [ACI.dev (Aipolabs LTD)](https://aci.dev/), where I integ
 
 📫 **Let’s connect**  
 Open to freelance, internships, and full-time opportunities.  
-- [LinkedIn](https://www.linkedin.com/in/tonychenyz/)  
-- [GitHub](https://github.com/TooonyChen)  
+🌐 [LinkedIn](https://www.linkedin.com/in/tonychenyz/) | [GitHub](https://github.com/TooonyChen)  
