@@ -2,21 +2,9 @@
 
 🎓 Final-year Computer Science student @ University of Auckland  
 💻 Passionate about full-stack development, cloud-native systems, and applied AI  
-🌏 Based in Auckland, New Zealand | Open to full-stack & web development roles
+🌏 Based in Auckland, New Zealand
 
 Currently interning at [ACI.dev (Aipolabs LTD)](https://aci.dev/), where I integrate advanced AI tools into developer infrastructure used globally.
-
----
-
-## 🔥 About Me
-
-- **Education**
-  - B.Sc. in Computer Science, **University of Auckland** (2024 – Present)  
-  - Software Engineering (Transferred), **Macau University of Science and Technology** (2022 – 2024)  
-- **Highlights**
-  - Hands-on experience building **scalable web apps and APIs** across internships
-  - Strong foundation in **cloud-native/serverless architectures**
-  - Proven **team leadership & strategy skills** as former **E-sports Team Leader** (CS2, FACEIT OCE Top #500)
 
 ---
 
