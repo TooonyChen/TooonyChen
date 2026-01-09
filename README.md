@@ -1,12 +1,12 @@
 # Hi there, I'm Tony Chen 👋🏽
 
 🎓 Final-year Computer Science student @ University of Auckland  
-💻 Passionate about full-stack development, cloud-native systems, and applied AI  
+🧑🏽‍💻 Passionate about full-stack development, cloud-native systems, and applied AI  
 📍 Based in Auckland, New Zealand
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Core**: TypeScript, Python, React.js (Next.js, TanStack Start), PostgreSQL, Docker, Cloudflare Workers  
 - **Familiar**: Supabase, Express.js, Firebase, AWS, Azure  
